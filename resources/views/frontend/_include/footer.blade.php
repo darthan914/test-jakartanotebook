@@ -1,0 +1,1 @@
+@include('frontend._include.script')
